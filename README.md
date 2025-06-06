@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20there!%20I'm%20Gokul&animation=fadeIn&type=waving&color=gradient&height=100" />
-</p>
+<div align="center">
+  <img height="250" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+</div>
+
 
 <br/>
 
