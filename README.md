@@ -22,7 +22,7 @@
 
 ---
 
-<h1 align="center">Hey there 👋🏼 I'm Gokul</h1>
+<h1 align="center">Hey there 👋🏼 I'm Gokula </h1>
 
 <p align="center">
   Software Engineer • Distributed Systems Enthusiast • Builder of Scalable Backends
@@ -36,6 +36,37 @@
 💼 Former SDE at **Accenture** & **Zoho**  
 🛠 Passionate about building secure, scalable systems across cloud-native stacks  
 🧠 Interests: Distributed Systems, Infrastructure, Secure ML, MLOps, Systems Design
+
+
+---
+
+## 🧩 Noteworthy Projects
+
+### 🚀 Distributed Microservices Platform – Hiring Intelligence
+- Built gRPC-based microservices with GCP + Kubernetes, improving latency by **65%**
+- Integrated Redis, Kafka, and CI/CD for a scalable high-load pipeline
+
+### 🔐 Trust-Aware Federated Learning System
+- Designed a dynamic trust & reputation scoring module in Flower FL
+- Reduced poisoning impact by **60%**, improving model accuracy to **87%**
+
+### 📊 Scalable Data Analytics – Meta Kaggle
+- Engineered a hybrid PostgreSQL/MongoDB pipeline for **126M+ records**
+- Extracted insights using Apriori mining and visualized via Tableau
+
+### ⚖️ Raft Consensus Implementation
+- Implemented log replication & leader election across **256 nodes** using Dockerized Java clusters
+
+---
+
+## 💡 What I'm Exploring Now
+
+- 🌱 Scalable stateful services with Go & gRPC  
+- 🔐 Secure aggregation in federated learning  
+- 🧠 LLM infrastructure and token-level watermarking  
+- 🛠 MLOps tooling with Ray, MLflow, and Airflow  
+
+---
 
 ---
 
@@ -72,34 +103,6 @@
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
----
-
-## 🧩 Noteworthy Projects
-
-### 🚀 Distributed Microservices Platform – Hiring Intelligence
-- Built gRPC-based microservices with GCP + Kubernetes, improving latency by **65%**
-- Integrated Redis, Kafka, and CI/CD for a scalable high-load pipeline
-
-### 🔐 Trust-Aware Federated Learning System
-- Designed a dynamic trust & reputation scoring module in Flower FL
-- Reduced poisoning impact by **60%**, improving model accuracy to **87%**
-
-### 📊 Scalable Data Analytics – Meta Kaggle
-- Engineered a hybrid PostgreSQL/MongoDB pipeline for **126M+ records**
-- Extracted insights using Apriori mining and visualized via Tableau
-
-### ⚖️ Raft Consensus Implementation
-- Implemented log replication & leader election across **256 nodes** using Dockerized Java clusters
-
----
-
-## 💡 What I'm Exploring Now
-
-- 🌱 Scalable stateful services with Go & gRPC  
-- 🔐 Secure aggregation in federated learning  
-- 🧠 LLM infrastructure and token-level watermarking  
-- 🛠 MLOps tooling with Ray, MLflow, and Airflow  
 
 ---
 
