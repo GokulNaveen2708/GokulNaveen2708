@@ -103,6 +103,12 @@
 
 ---
 
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulNaveen2708&layout=compact&theme=dracula)
+
+---
+
 ## 📫 Let’s Connect
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/gokul-naveen/)
