@@ -1,107 +1,115 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="250" alt="Animated Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="220" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gokul-naveen/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" height="25" />
   </a>
-  <a href="mailto:gokulnaveen2708@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+  <a href="mailto:gokulnaveen2708@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" height="25" />
+  </a>
+  <a href="https://github.com/GokulNaveen2708" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge&logoColor=white" height="25" />
+  </a>
+  <a href="https://drive.google.com/file/d/1bvIAlVfWN7oPgn_y22n73wuWhdqpbVBV/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" height="25" />
   </a>
 </div>
 
 ---
 
-<h1 align="center">Hi there! 👋 I'm Gokula Ranga Naveen Chapala</h1>
+<h1 align="center">Hey there 👋🏼 I'm Gokul</h1>
 
 <p align="center">
-  🎓 MS in Computer Science @ RIT | 💼 Ex-Data Engineer at Accenture | 📍 Rochester, NY
+  Software Engineer • Distributed Systems Enthusiast • Builder of Scalable Backends
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate software engineer with a focus on enhancing system efficiency and tackling complex technical challenges. My expertise lies in:
-
-- **Data Engineering & Analysis:** Building robust data pipelines and performing insightful analyses.
-- **Machine Learning & AI:** Developing intelligent systems using modern ML frameworks.
-- **Cloud Computing:** Deploying scalable applications on cloud platforms like AWS and Azure.
-- **Database Management:** Designing and managing relational and non-relational databases.
+🎓 CS Master's @ RIT  
+💼 Former SDE at **Accenture** & **Zoho**  
+🛠 Passionate about building secure, scalable systems across cloud-native stacks  
+🧠 Interests: Distributed Systems, Infrastructure, Secure ML, MLOps, Systems Design
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack (SDE Focused)
 
-### Languages
+### 💻 Languages
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
+![JS](https://skillicons.dev/icons?i=javascript)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![Go](https://skillicons.dev/icons?i=go)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+### 🔨 Frameworks & Tools
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Spring](https://skillicons.dev/icons?i=spring)
+![Flask](https://skillicons.dev/icons?i=flask)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?logo=google&logoColor=white&style=flat-square)
+![GraphQL](https://skillicons.dev/icons?i=graphql)
 
-### Frameworks & Libraries
+### ☁️ Cloud & DevOps
+![AWS](https://skillicons.dev/icons?i=aws)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
----
-
-## 📂 Projects
-
-### [Meta-Kaggle-Insights](https://github.com/GokulNaveen2708/Meta-Kaggle-Insights)
-
-A comprehensive analysis of the Kaggle community using the Meta Kaggle dataset. This project involves:
-
-- Data cleaning and preprocessing
-- Relational and document-based database modeling
-- Itemset mining and association rule discovery
-
-### [Text-Classification-with-UDA-and-BERT](https://github.com/GokulNaveen2708/Text-Classification-with-UDA-and-BERT)
-
-Implementation of Unsupervised Data Augmentation (UDA) with BERT for text classification tasks. Key features include:
-
-- Data augmentation techniques
-- Fine-tuning BERT for improved accuracy
-- Evaluation on benchmark datasets
+### 📊 Monitoring & Infra
+![Grafana](https://skillicons.dev/icons?i=grafana)
+![Prometheus](https://skillicons.dev/icons?i=prometheus)
+![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch)
+![Redis](https://skillicons.dev/icons?i=redis)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 ---
 
-## 📈 GitHub Stats
+## 🧩 Noteworthy Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulNaveen2708&layout=compact&theme=dracula)
+### 🚀 Distributed Microservices Platform – Hiring Intelligence
+- Built gRPC-based microservices with GCP + Kubernetes, improving latency by **65%**
+- Integrated Redis, Kafka, and CI/CD for a scalable high-load pipeline
+
+### 🔐 Trust-Aware Federated Learning System
+- Designed a dynamic trust & reputation scoring module in Flower FL
+- Reduced poisoning impact by **60%**, improving model accuracy to **87%**
+
+### 📊 Scalable Data Analytics – Meta Kaggle
+- Engineered a hybrid PostgreSQL/MongoDB pipeline for **126M+ records**
+- Extracted insights using Apriori mining and visualized via Tableau
+
+### ⚖️ Raft Consensus Implementation
+- Implemented log replication & leader election across **256 nodes** using Dockerized Java clusters
 
 ---
 
-## 📫 Contact Me
+## 💡 What I'm Exploring Now
 
-Feel free to reach out:
+- 🌱 Scalable stateful services with Go & gRPC  
+- 🔐 Secure aggregation in federated learning  
+- 🧠 LLM infrastructure and token-level watermarking  
+- 🛠 MLOps tooling with Ray, MLflow, and Airflow  
 
-- 📧 Email: gokulnaveen2708@gmail.com
-- 💼 LinkedIn: [Gokula Ranga Naveen Chapala](https://www.linkedin.com/in/gokul-naveen/)
+---
+
+## 📫 Let’s Connect
+
+- 🌍 [LinkedIn](https://www.linkedin.com/in/gokul-naveen/)
+- 💌 gc3522@rit.edu
+- 🧾 [My Resume](https://drive.google.com/file/d/1bvIAlVfWN7oPgn_y22n73wuWhdqpbVBV/view)
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GokulNaveen2708.GokulNaveen2708" alt="Visitor Badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GokulNaveen2708" />
 </div>
