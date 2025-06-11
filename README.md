@@ -70,7 +70,7 @@
 
 ---
 
-## 🔧 Tech Stack (SDE Focused)
+## 🔧 Tech Stack
 
 ### 💻 Languages
 ![Python](https://skillicons.dev/icons?i=python)
