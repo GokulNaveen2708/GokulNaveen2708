@@ -33,7 +33,7 @@
 ## 👨‍💻 About Me
 
 🎓 CS Master's @ RIT  
-💼 Former SDE at **Accenture
+💼 Former SDE at **Accenture**
 🛠 Passionate about building secure, scalable systems across cloud-native stacks  
 🧠 Interests: Distributed Systems, Infrastructure, Secure ML, MLOps, Systems Design
 
