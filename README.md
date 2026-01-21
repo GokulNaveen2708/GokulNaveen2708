@@ -14,7 +14,7 @@
   <a href="https://github.com/GokulNaveen2708" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge&logoColor=white" height="25" />
   </a>
-  <a href="https://github.com/GokulNaveen2708/GokulNaveen2708/blob/main/Gokula_Chapala_SWE.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1ec8A5GXn8BXtkseWUoGf-r3pTf8G_NCs/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" height="25" />
   </a>
 </div>
@@ -33,7 +33,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/GokulNaveen2708/GokulNaveen2708/blob/main/Gokula_Chapala_SWE.pdf">
+  <a href="https://drive.google.com/file/d/1ec8A5GXn8BXtkseWUoGf-r3pTf8G_NCs/view?usp=sharing">
     <img src="https://img.shields.io/badge/View_My_Resume-238636?style=for-the-badge&logo=read-the-docs&logoColor=white" height="30" />
   </a>
 </div>
